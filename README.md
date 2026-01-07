@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kenny! </h1>
 
 <p align="center">
-  <b>A passionate Frontend Developer | ALX Software Engineering Learner</b><br/>
+  <b>A passionate Frontend Developer | Software Engineering Learner</b><br/>
   <i>Turning ideas into accessible, interactive web experiences</i>
 </p>
 
@@ -23,7 +23,7 @@ I'm excited to work on:
 - 🎨 **Interactive Portfolios** and personal branding tools.
 
 ### 📌 Current Learning Focus
-I'm currently enrolled in the **ALX Frontend Program** where I'm deepening my skills in:
+I'm currently learning using udemy courses and I'm deepening my skills in:
 - `HTML5`, `CSS3`, `JavaScript (ES6+)`
 - `Git & GitHub`, `Responsive Design`
 - `React.js`, `Accessibility (a11y)`
@@ -52,10 +52,10 @@ I'm currently enrolled in the **ALX Frontend Program** where I'm deepening my sk
 <br><details>
 <summary>📚 Fun Facts</summary>
 
-- 🧒 I teach kids to code using Scratch & Code.org  
-- ☀️ I'm inspired by women breaking barriers in tech  
+- 🧒 I teach kids to code using Scratch & Code.org 
+- 🧶 I'm love to crochet during my spare time  
 - 🎥 I love editing videos and storytelling through visuals  
-- 🌱 Currently exploring: `Next.js` & `GSAP animations`
+- 🌱 Currently exploring: `Next.js` & `React`
 </details>
 
 
