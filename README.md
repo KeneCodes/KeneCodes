@@ -15,7 +15,7 @@ I started this journey because I’m obsessed with solving problems and building
 * 🤝 Collaborating with folks who are just as curious as I am.
 
 ### 🚀 Projects I Want to Build
-I’m currently moving from "learning the theory" to "actually building the thing." I'm focused on:
+I’m moving from "learning the theory" to "actually building the thing." I'm focused on:
 * 🌐 Responsive Web Apps (that actually look good on phones).
 * 📊 Dashboard interfaces for people who like to see their data clearly.
 * 📱 Mobile-first designs using React & TailwindCSS.
@@ -30,32 +30,31 @@ I'm currently learning using udemy courses and I'm deepening my skills in:
 
 <h2>👨‍💻 Frontend Development Projects:</h2>
 
-  - [My github profile (Just a placeholder Demo)](https://github.com/KeneCodes/KeneCodes/)
+  - Check out my [Repositories](https://github.com/KeneCodes?tab=repositories) to see my progress—from early experiments to the stuff I'm actually proud of.
 
 <h2>📺 Certifications </h2>
 
-- [Leads to my page on youtube (placeholder still)](https://www.youtube.com/@kennys-journey)
-- [Placeholder](https://www.youtube.com/@kennys-journey)
+- [Still collecting badges! You can find my progress and updates here.
+  <!--[Placeholder](https://www.youtube.com/@kennys-journey)-->
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 I'm always up for a chat about tech, life, or crochet patterns.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kenny | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Kenny | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kenny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[youtube]: https://www.youtube.com/@kays-knotty-journey
 [twitter]: http://x.com/_Kenny_np
-[youtube]: https://www.youtube.com/@kennys-journey
-[linkedin]: https://www.linkedin.com/in/kenechukwu-nwaolisa/
+[linkedin]: https://www.linkedin.com/in/kenechukwu-nwaolisa-5b0a15404/
 
 
 <br><details>
-<summary>📚 Fun Facts</summary>
 
-- 🧒 I teach kids to code using Scratch & Code.org 
-- 🧶 I'm love to crochet during my spare time  
-- 🎥 I love editing videos and storytelling through visuals  
-- 🌱 Currently exploring: `Next.js` & `React`
+📚 Fun Facts
+* 🧒 I teach kids to code using Scratch & Code.org.
+* 🧶 I’m a firm believer that crochet is just debugging with better results.
+* 🎥 I love storytelling through visuals and video editing.
 </details>
 
 
@@ -83,4 +82,7 @@ Here are some ideas to get you started:
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
