@@ -6,21 +6,20 @@
 </p>
 
  ### 🔥 Why Software Engineering?
-I began my journey into software engineering because I'm driven to create **user-centered digital solutions** that empower people and solve real-world problems. My love for building, problem-solving, and lifelong learning continues to push me to grow as a developer.
+I started this journey because I’m obsessed with solving problems and building things that actually matter. My love for construction (the coding kind), logic, and the occasional "what on earth happened here?" debugging session is what keeps me growing.
 
 ### 💡 What Inspires Me
-- 🎯 Building intuitive, inclusive web interfaces
-- 📚 Teaching young minds how to code
-- 💻 Contributing to impactful open-source projects
-- 🤝 Collaborating with diverse tech communities
+* 🎯 Building intuitive, inclusive interfaces that don't just work, but feel good to use.
+* 📚 Teaching young minds the magic of code.
+* 💻 Slowly but surely contributing to the projects that make the web better.
+* 🤝 Collaborating with folks who are just as curious as I am.
 
 ### 🚀 Projects I Want to Build
-I'm excited to work on:
-- 🌐 **Responsive Web Apps** for small businesses or social impact
-- 📊 **Dashboard Interfaces** for analytics and productivity
-- 📱 **Mobile-first designs** with React & TailwindCSS
-- 🔐 **Accessible Authentication Systems** using Firebase
-- 🎨 **Interactive Portfolios** and personal branding tools.
+I’m currently moving from "learning the theory" to "actually building the thing." I'm focused on:
+* 🌐 Responsive Web Apps (that actually look good on phones).
+* 📊 Dashboard interfaces for people who like to see their data clearly.
+* 📱 Mobile-first designs using React & TailwindCSS.
+* 🎨 Interactive personal projects to keep my CSS skills sharp.
 
 ### 📌 Current Learning Focus
 I'm currently learning using udemy courses and I'm deepening my skills in:
@@ -39,6 +38,7 @@ I'm currently learning using udemy courses and I'm deepening my skills in:
 - [Placeholder](https://www.youtube.com/@kennys-journey)
 
 <h2> 🤳 Connect with me:</h2>
+I'm always up for a chat about tech, life, or crochet patterns.
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
